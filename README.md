@@ -10,13 +10,17 @@ Energy Management Panel (EMP) of the [KIT Energy Smart Home Lab](http://www.aifb
 ## Contact and Main Contributors
 
 * Kaibin Bao (bao@kit.edu)
-* Birger Becker
-* Anna Kellerer
 * Sebastian Kochanneck (kochanneck@kit.edu)
 * Sebastian Kramer (uadao@student.kit.edu) - <b>main contact</b>
 * Ingo Mauser (mauser@kit.edu)
 * Vanessa Steurer
 * Jan Müller (jan.mueller@kit.edu)
+
+
+## Main Contributors of old version V1
+
+* Birger Becker
+* Anna Kellerer
 
 
 ## Literature (old version!)
