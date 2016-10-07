@@ -4,7 +4,7 @@ Energy Management Panel (EMP) of the [KIT Energy Smart Home Lab](http://www.aifb
 
 ## Overview
 
-* <i>lv-grid-1.txt</i>: sub-urban LV distribution grid
+* TODO
 
 
 ## Contact and Main Contributors
